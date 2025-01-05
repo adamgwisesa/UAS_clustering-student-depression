@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning – [Adam Gustin Wisesa]
+# Laporan Proyek Machine Learning – Adam Gustin Wisesa
 ## Domain Proyek
 ### Latar Belakang
 Kesehatan mental mahasiswa telah menjadi perhatian serius di lingkungan akademis. Tekanan akademis, sosial, dan pribadi seringkali menyebabkan stres dan gangguan kesehatan mental yang berdampak pada produktivitas dan kualitas hidup mahasiswa.
