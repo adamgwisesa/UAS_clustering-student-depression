@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning – [Adam Gustin Wisesa]
 ## Domain Proyek
-###Latar Belakang
+**Latar Belakang**
 Kesehatan mental mahasiswa telah menjadi perhatian serius di lingkungan akademis. Tekanan akademis, sosial, dan pribadi seringkali menyebabkan stres dan gangguan kesehatan mental yang berdampak pada produktivitas dan kualitas hidup mahasiswa.
 
 Proyek ini bertujuan untuk mengidentifikasi pola gaya hidup mahasiswa yang berkaitan dengan kesehatan mental melalui teknik clustering dalam machine learning.
